@@ -1,0 +1,32 @@
+{
+  "name": "email-builder",
+  "version": "1.0.0",
+  "description": "Evgeniy Sharloimov Email Builder",
+  "main": "index.js",
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean": "^0.4.0",
+    "gulp-email-builder": "^3.0.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-stylus": "^2.7.0",
+    "gulp-tinypng-compress": "^1.2.5",
+    "gulp-watch": "^5.0.1",
+    "node-sass": "^4.13.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgeniy Sharloimov",
+  "license": "ISC",
+  "browserslist": [
+    "last 5 version",
+    "> 1%",
+    "maintained node versions",
+    "not dead"
+  ]
+}
